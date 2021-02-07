@@ -61,4 +61,4 @@ DS18B20
  LED
  هایی که جایگزین رله هستند به پایه های D5 و D6 متصل هستند.
 </div>
-https://github.com/paanaak/PaanaakCloudArduinoExample/blob/main/esp8266Panak.png?raw=true
+<img src="https://github.com/paanaak/PaanaakCloudArduinoExample/blob/main/esp8266Panak.png?raw=true" />
