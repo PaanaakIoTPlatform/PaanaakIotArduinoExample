@@ -16,7 +16,7 @@ DallasTemperature sensors(&oneWire);                                            
 
 #define User_SSID  "MobinNet1122"                                                              // WiFi Router SSID
 #define User_Pass  "44117517"                                                             // WiFi Router Password
-#define ServerAddress  "http://paanaak-cloud.ir/api/device/devicecall?"                   // Server Address (Fixed)
+#define ServerAddress  "http://api.paanaak.net/api/device/devicecall?"                   // Server Address (Fixed)
 #define SecretKey "17334a71-2988-4234-bf93-59c0b3a7713d"                                  // Device Secret Key (Unique for each device)
  
 
