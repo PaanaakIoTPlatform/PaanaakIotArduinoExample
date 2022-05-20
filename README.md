@@ -1,4 +1,4 @@
-# PaanaakCloudArduinoExample
+# PaanaakIoTrduinoExample
 <div dir="rtl">
 این سوروس کد یک نمونه برای استفاده از پلت فرم اینترنت اشیاء پاناک با  
 زبان سی پلاس پلاس و آردوئینو با ماژول 
