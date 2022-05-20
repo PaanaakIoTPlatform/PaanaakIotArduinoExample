@@ -21,11 +21,11 @@ Sensor Label: “temp”
 http 
 پاناک به صورت زیر است.
 <div dir="ltr">        
-http://paanaak-cloud.ir/api/device/devicecall?
+http://api.paanaak.net/api/device/devicecall?
 </div>
 آدرسی که باید برای ارسال و دریافت اطلاعات دستگاه توسط سخت افزار استفاده شود نیز به صورت زیر خواهد بود:
 <div dir="ltr">        
-http://paanaak-cloud.ir/api/device/devicecall?uniqueId=[SecretKey]&[Label1]=[Valu1]&[Label2]=[Valu2]...&state=[01...]
+http://api.paanaak.net/api/device/devicecall?uniqueId=[SecretKey]&[Label1]=[Valu1]&[Label2]=[Valu2]...&state=[01...]
 </div>      
 که
 state 
@@ -35,7 +35,7 @@ Label
 ها در پنل وب برای دستگاه تعریف شده باشند.
 برای مثال در این دستگاه آدرس به صورت زیر خواهد بود.
 <div dir="ltr">        
-http://paanaak-cloud.ir/api/device/devicecall?uniqueId=17334a71-2988-4234-bf93-59c0b3a7713d&temp=28
+http://api.paanaak.net/api/device/devicecall?uniqueId=17334a71-2988-4234-bf93-59c0b3a7713d&temp=28
 </div>
 پاسخی که دستگاه از سرور دریافت می کند شامل وضعیت رله ها است که توسط کاربر درپنل وب یا اپلیکیشن تنظیم شده اند و عبارتی به صورت زیر خواهد بود.
 <div dir="ltr">        
